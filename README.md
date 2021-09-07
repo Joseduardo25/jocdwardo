@@ -4,7 +4,7 @@ const jocdwardo = {
         frontEnd: {
             js: "React.js",
         },
-        backEnd:{
+        backEnd: {
             js: "Node.js",
         },
         databases: "MongoDB",
